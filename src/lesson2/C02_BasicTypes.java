@@ -1,4 +1,4 @@
-package com.hillel.javaStarter;
+package lesson2;
 
 public class C02_BasicTypes {
     public static void main(String[] args) {

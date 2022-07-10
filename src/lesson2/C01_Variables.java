@@ -4,7 +4,6 @@ public class C01_Variables {
     public static void main(String[] args) {
          //На 7-й строке, создаем переменную с именем a, типа byte и присваиваем ей значение 2.
 
-
         Integer a = 5;
         //int a = 5;
 

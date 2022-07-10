@@ -1,4 +1,4 @@
-package com.hillel.javaStarter;
+package lesson2;
 
 public class Car {
     String name = "bmw z8";

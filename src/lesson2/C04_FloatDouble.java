@@ -1,4 +1,4 @@
-package com.hillel.javaStarter;
+package lesson2;
 
 public class C04_FloatDouble {
     public static void main(String[] args) {
